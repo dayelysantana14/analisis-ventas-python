@@ -1,0 +1,20 @@
+REPORTE DE VENTAS
+=========================
+
+Total ventas: 74700
+Promedio ventas: 4980.00
+
+Top vendedor:
+Elena - 9000
+
+Top 3 vendedores:
+vendedor   categoria  ventas
+   Elena Electronica    9000
+  Carlos Electronica    8000
+   Pedro Electronica    7000
+
+Ventas por categoría:
+categoria
+Electronica    35100
+Hogar          24400
+Ropa           15200
