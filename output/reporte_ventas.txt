@@ -1,0 +1,17 @@
+REPORTE DE ANÁLISIS DE VENTAS
+==============================
+
+Ventas Totales: $20,002.25
+Promedio de Venta: $1,333.48
+
+TOP 3 TRANSACCIONES:
+    vendedor  ventas   categoria
+  Luis Gomez  3000.0 Electronica
+Ana Martinez  2200.0 Electronica
+  Luis Gomez  2100.0 Electronica
+
+RESUMEN POR CATEGORÍA:
+categoria
+Electronica    11201.00
+Hogar           6150.25
+Ropa            2651.00
